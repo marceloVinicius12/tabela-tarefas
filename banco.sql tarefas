@@ -1,0 +1,3 @@
+CREATE DATABASE tb_tarefas;
+CREATE TABLE tb_tarefas
+( nome VARCHAR(20), descricao VARCHAR(100), prioridade VARCHAR(10), prazo VARCHAR(20), concluida VARCHAR(3) );

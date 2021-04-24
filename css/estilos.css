@@ -1,0 +1,22 @@
+body{
+    background: blue;
+   }
+   
+   h1{
+       font-family: lucida handwriting ;
+   text-align: center;
+   color: blue;
+   margin-left: -9px;
+   }
+   
+   .cadastro{
+       background: white;
+    margin-top: 5px;
+   margin-left: 300px;
+    box-shadow: blue 0px 3px 10px;
+    padding: 50px;
+    width: 600px;
+   }
+   .table{
+    margin-top:20px
+   }
